@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Check for Test.md",
+      "setup": "",
+      "run": "ls | grep test.md",
+      "input": "",
+      "output": "test.md",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
